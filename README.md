@@ -110,7 +110,7 @@ Built on a **MERN stack** with **Retrieval-Augmented Generation (RAG)**, StudyAI
 ### AI Layer
 | Technology | Purpose |
 |:---|:---|
-| [Google Gemini 1.5 Flash](https://ai.google.dev/) | Core AI engine |
+| [Google Gemini 2.5 Flash](https://ai.google.dev/) | Core AI engine |
 | RAG (Retrieval-Augmented Generation) | Grounds answers in uploaded documents |
 | Structured JSON generation | Powers flashcards & quiz formatting |
 
