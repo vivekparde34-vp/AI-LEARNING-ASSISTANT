@@ -5,7 +5,7 @@
 
 ### Your Intelligent Learning Companion
 
-*Transform static PDFs into interactive, personalized study experiences — powered by Google Gemini AI.*
+*Transform static Documents into interactive, personalized study experiences — powered by Google Gemini AI.*
 
 <br/>
 
